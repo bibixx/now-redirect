@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © `2019` `Bartosz Legięć`
+Copyright © `2019-2020` `Bartosz Legięć`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

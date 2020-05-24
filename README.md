@@ -1,21 +1,21 @@
-<h1 align="center">Now redirect template 👋</h1>
+<h1 align="center">Vercel redirect template 👋</h1>
 <p>
-  <a href="https://github.com/bibixx/now-redirect/blob/master/LICENSE.md" target="_blank">
+  <a href="https://github.com/bibixx/vercel-redirect/blob/master/LICENSE.md" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-> Create redirection urls on now.sh in seconds
+> Create redirection urls on vercel.app in seconds
 
 ## Usage
 
 1. Create own repository from this template
 ![screen.gif](./screen.gif)
 
-2. Adjust `now.json`
+2. Adjust `vercel.json`
 ```js
 {
-  "alias": "your_domain.example.com",
+  "alias": "vercel-redirect.vercel.app",
   //        ^ change this to the URL you want to redirect from
   "routes": [
     {
@@ -30,9 +30,9 @@
 }
 ```
 
-3. Deploy to now using
+3. Deploy to vercel using
 ```sh
-now
+vc
 ```
 
 ## Author
@@ -45,7 +45,7 @@ now
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bibixx/now-redirect/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bibixx/vercel-redirect/issues).
 
 ## Show your support
 
@@ -53,7 +53,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [bibixx](https://github.com/bibixx).<br />
+Copyright © 2019-2020 [bibixx](https://github.com/bibixx).<br />
 This project is [MIT](/LICENSE.md) licensed.
 
 ***

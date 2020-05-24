@@ -1,5 +1,5 @@
 {
-  "alias": "your_domain.example.com",
+  "alias": "vercel-redirect.vercel.app",
   "routes": [
     {
       "src": ".*",
